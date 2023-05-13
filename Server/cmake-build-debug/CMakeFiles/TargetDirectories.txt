@@ -1,0 +1,3 @@
+C:/Users/KritZ/CLionProjects/Server/cmake-build-debug/CMakeFiles/Server.dir
+C:/Users/KritZ/CLionProjects/Server/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/KritZ/CLionProjects/Server/cmake-build-debug/CMakeFiles/rebuild_cache.dir

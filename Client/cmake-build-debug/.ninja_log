@@ -1,0 +1,6 @@
+# ninja log v5
+1	292	7056720344599166	build.ninja	d82bc4bccc3447bc
+3	1700	7056253475535318	CMakeFiles/Client.dir/CCLient.cpp.obj	d824915506b39329
+4	1843	7056294091248204	CMakeFiles/Client.dir/main.cpp.obj	3781fcc4e1ede0f0
+4	1713	7056345152623970	CMakeFiles/Client.dir/CClient.cpp.obj	fa12bbf9d84e404d
+1713	1853	7056345154000288	Client.exe	8260ff1c41157f1e
